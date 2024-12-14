@@ -1,0 +1,6 @@
+@ApiMariscos_HostAddress = http://localhost:5186
+
+GET {{ApiMariscos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
